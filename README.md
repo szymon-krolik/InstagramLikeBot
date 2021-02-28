@@ -9,7 +9,7 @@
 * [Usage](#usage)
 * [Status](#status)
 * [Contact](#contact)
-* [To Do](#To-do list)
+* [To Do](#To-do)
 
 ## General info
 This project is simple Instargam bot that likes posts based on the hashtags you provide.
@@ -37,7 +37,7 @@ $ python insta_bot.py
 ```
 Only you have to do is type your username, password, hashtag and how many photo will be liked
 
-## To-do list:
+## To-do:
 * Remember user credentials
 * Add top rated hashtags
 

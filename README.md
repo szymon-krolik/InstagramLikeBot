@@ -13,6 +13,7 @@
 ## General info
 This project is simple Instargam bot that likes posts based on the hashtags you provide.
 Helps with getting back likes and gaining followers who share the same interests as you.
+Only available for firefox
 
 
 

@@ -9,7 +9,7 @@
 * [Usage](#usage)
 * [Status](#status)
 * [Contact](#contact)
-* [To Do](#todo)
+* [To Do](#To-do list)
 
 ## General info
 This project is simple Instargam bot that likes posts based on the hashtags you provide.

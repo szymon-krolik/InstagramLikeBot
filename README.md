@@ -33,7 +33,7 @@ Only you have to do is type your username, password, hashtag and how many photo 
 
 To-do list:
 * Remember user credentials
-* Add top rated hashtag
+* Add top rated hashtags
 
 ## Status
 Project is: _in progress_
